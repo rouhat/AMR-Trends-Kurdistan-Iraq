@@ -133,7 +133,7 @@ pip install pandas numpy matplotlib seaborn scipy openpyxl
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/AMR-Trends-Kurdistan-Iraq.git
+git clone https://github.com/rouhat/AMR-Trends-Kurdistan-Iraq.git
 cd AMR-Trends-Kurdistan-Iraq
 
 # Run the analysis pipeline
@@ -168,7 +168,7 @@ If you use this dataset or code, please cite:
 
 ```bibtex
 @dataset{amr_kurdistan_2025,
-  author       = {[Your Name]},
+  author       = {Rohat Abdullah},
   title        = {Twelve-Year Antimicrobial Resistance Surveillance in Kurdistan Region, Iraq (2013-2025)},
   year         = {2025},
   publisher    = {GitHub},
@@ -186,13 +186,13 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📬 Contact
 
-**[Your Name]**  
+**[Rohat Abdullah]**  
 Assistant Biologist, Microbiology Laboratory  
 Zakho General Emergency Hospital  
 Kurdistan Region, Iraq
 
-📧 [Your Email]  
-🔗 [LinkedIn/ORCID]
+📧 [rouhat.abdullah@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohat-abdullah) | [ORCID](https://orcid.org/0000-0002-1661-6913)
 
 ---
 
@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Zakho General Emergency Hospital Microbiology Laboratory
 - Online Research Club collaborators
-- [Any other acknowledgments]
+
 
 ---
 
