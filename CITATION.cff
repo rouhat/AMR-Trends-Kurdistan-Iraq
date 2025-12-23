@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: >-
+  Twelve-Year Antimicrobial Resistance Surveillance in
+  Kurdistan Region, Iraq (2013-2025)
+message: >-
+  If you use this dataset or code, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: [Your First Name]
+    family-names: [Your Last Name]
+    email: [your.email@example.com]
+    affiliation: >-
+      Zakho General Emergency Hospital, Microbiology
+      Laboratory, Kurdistan Region, Iraq
+    orcid: 'https://orcid.org/0000-0000-0000-0000'
+repository-code: 'https://github.com/YOUR_USERNAME/AMR-Trends-Kurdistan-Iraq'
+url: 'https://github.com/YOUR_USERNAME/AMR-Trends-Kurdistan-Iraq'
+abstract: >-
+  This dataset contains antimicrobial susceptibility testing
+  results from Zakho General Emergency Hospital in the
+  Kurdistan Region of Iraq, spanning from November 2013 to
+  November 2025. The dataset includes approximately 1,200+
+  bacterial isolates with demographic information, specimen
+  types, organism identification, and susceptibility results
+  for 30+ antibiotics. This represents one of the most
+  comprehensive AMR surveillance datasets from this
+  underrepresented region.
+keywords:
+  - antimicrobial resistance
+  - AMR
+  - Kurdistan
+  - Iraq
+  - surveillance
+  - microbiology
+  - antibiotic resistance
+  - Escherichia coli
+  - Klebsiella
+  - Staphylococcus
+  - MDR
+  - multi-drug resistant
+license: MIT
+version: '1.0.0'
+date-released: '2025-12-01'
