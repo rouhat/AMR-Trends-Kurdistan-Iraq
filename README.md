@@ -1,6 +1,6 @@
 # AMR-Trends-Kurdistan-Iraq
 
-**Antimicrobial resistance surveillance in a secondary-care hospital, Kurdistan Region of Iraq (2013–2025)**
+**Antimicrobial resistance surveillance in a secondary-care hospital, Kurdistan Region of Iraq (2013–2025)(non-continuous)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: analysis in progress](https://img.shields.io/badge/Status-analysis%20in%20progress-orange.svg)](#status)
