@@ -26,11 +26,41 @@ supervision, alongside full-time laboratory employment.
 
 ## Status
 
-**Data assembled. Analysis in progress.**
+**Analysis complete for the core dataset.**
 
-The dataset has been compiled and de-identified. Cleaning and analysis are
-ongoing, and no resistance estimates are published here yet. Results will be
-added once the data has been validated and denominators confirmed.
+1,333 isolates analysed across 2013–2025. Resistance rates are reported
+per organism, with denominators and 95% confidence intervals, for agents
+with at least 30 isolates tested (CLSI M39).
+
+Surveillance is not continuous: no records are held for 2016–2018 or
+2023–2024, and 2014 contributes 2 isolates.
+
+## Findings
+
+![Isolates per year](fig1_isolates_per_year.png)
+
+![Resistance by antibiotic](fig2_resistance_ecoli_klebsiella.png)
+
+![Ciprofloxacin trend](fig3_ciprofloxacin_trend.png)
+
+Among the two most frequently isolated organisms, carbapenems and
+amikacin retain the greatest activity: imipenem resistance is 16.5% in
+*E. coli* (n=79) and 4.4% in *Klebsiella* spp. (n=90); amikacin is 14.0%
+(n=265) and 12.8% (n=218) respectively. Aminopenicillins, first-
+generation cephalosporins and third-generation cephalosporins show
+resistance above 60% in both organisms.
+
+Ciprofloxacin resistance across all organisms rose from 40% in 2013
+(n=128) to 56% in 2025 (n=144), with a lower figure of 34% recorded in
+2019 (n=168).
+
+### Unresolved antibiotic codes
+
+Some columns in the historical records use codes that are labelled
+inconsistently across years — `CL` appears as both colistin and
+cephalexin — or are unlabelled (`AME`, `CAN`, `CEO`, `MEIL`, `MEK`,
+`MPM`, `TPM`). These results are excluded pending confirmation with the
+laboratory rather than assigned to a drug by inference.
 
 
 ---
