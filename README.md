@@ -136,8 +136,8 @@ retained.
 ## Citation
 
 ```bibtex
-@dataset{abdullah_amr_kurdistan,
-  author    = {Abdullah, Rohat},
+@dataset{Haji_amr_kurdistan,
+  author    = {Haji, Rohat},
   title     = {Antimicrobial Resistance Surveillance, Kurdistan Region of Iraq (2013--2025)},
   year      = {2026},
   publisher = {GitHub},
