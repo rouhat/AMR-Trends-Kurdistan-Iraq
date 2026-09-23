@@ -120,7 +120,7 @@ retained.
 
 ## Contact
 
-**Rohat Abdullah**
+**Rohat Haji**
 Biologist, Microbiology Laboratory
 Zakho General Emergency Hospital, Kurdistan Region of Iraq
 
