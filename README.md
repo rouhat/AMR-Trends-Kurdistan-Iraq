@@ -32,7 +32,6 @@ The dataset has been compiled and de-identified. Cleaning and analysis are
 ongoing, and no resistance estimates are published here yet. Results will be
 added once the data has been validated and denominators confirmed.
 
-Earlier exploratory figures have been withdrawn pending that validation.
 
 ---
 
