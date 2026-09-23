@@ -101,8 +101,6 @@ than percentages, following CLSI M39 guidance on cumulative antibiograms.
 Raw isolate-level data is **not publicly available**. It is held at the
 hospital and contains routine clinical laboratory records.
 
-Aggregate results and the full analysis code will be published in this
-repository once the analysis is complete.
 
 The dataset has been de-identified: no patient names or identifiers are
 retained.
